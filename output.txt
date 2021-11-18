@@ -1,0 +1,172 @@
+[92mLogging in to database...[0m
+[95m1.0 Average Professor Rating (General)[0m
+	Average General Rating: 3.61687921980495
+[95m1.1 Average Professor Rating (Chemistry)[0m
+	Average Chemistry Rating: 3.40154109589041
+[95m1.2 Average Professor Rating (Computer Science)[0m
+	Average CS Rating: 3.204
+[95m1.3 Average Professor Difficulty (General)[0m
+	Average General Difficulty: 2.9881470367591898
+[95m1.4 Average Professor Difficulty (Chemistry)[0m
+	Average Chemistry Difficulty: 3.5034246575342466
+[95m1.5 Average Professor Difficulty (Computer Science)[0m
+	Average CS Difficulty: 3.066
+[95m1.6 Creating plot for Departmental Average Ratings[0m
+[95m1.7 Creating plot for Departmental Difficulty[0m
+[96m2.0 Most Common Words Comment Words (General)[0m
+| Word        |   Freq |   # Word / Comment |
+|-------------+--------+--------------------|
+| teacher     |   4005 |            0.20025 |
+| professor   |   3858 |            0.1929  |
+| tests       |   2523 |            0.12615 |
+| hes         |   2200 |            0.11    |
+| lectures    |   1784 |            0.0892  |
+| nice        |   1744 |            0.0872  |
+| helpful     |   1708 |            0.0854  |
+| interesting |   1538 |            0.0769  |
+| guy         |   1473 |            0.07365 |
+| classes     |   1425 |            0.07125 |
+| shes        |   1362 |            0.0681  |
+| grade       |   1346 |            0.0673  |
+| doesnt      |   1303 |            0.06515 |
+| gives       |   1265 |            0.06325 |
+| prof        |   1253 |            0.06265 |
+[96m2.1 Most Common Words Comment Words (Chemistry)[0m
+| Word       |   Freq |   # Word / Comment |
+|------------+--------+--------------------|
+| professor  |    140 |          0.239726  |
+| chemistry  |    114 |          0.195205  |
+| teacher    |    102 |          0.174658  |
+| chem       |     98 |          0.167808  |
+| tests      |     89 |          0.152397  |
+| dr         |     82 |          0.140411  |
+| hes        |     81 |          0.138699  |
+| helpful    |     78 |          0.133562  |
+| understand |     66 |          0.113014  |
+| exams      |     60 |          0.10274   |
+| nice       |     56 |          0.0958904 |
+| lectures   |     55 |          0.0941781 |
+| lab        |     54 |          0.0924658 |
+| difficult  |     53 |          0.0907534 |
+| notes      |     51 |          0.0873288 |
+[96m2.2 Most Common Words Comment Words (Computer Science)[0m
+| Word        |   Freq |   # Word / Comment |
+|-------------+--------+--------------------|
+| professor   |    129 |          0.197248  |
+| teacher     |    100 |          0.152905  |
+| lectures    |     75 |          0.114679  |
+| tests       |     74 |          0.11315   |
+| assignments |     70 |          0.107034  |
+| hes         |     69 |          0.105505  |
+| helpful     |     67 |          0.102446  |
+| doesnt      |     65 |          0.0993884 |
+| guy         |     62 |          0.0948012 |
+| teaching    |     59 |          0.0902141 |
+| nice        |     53 |          0.0810398 |
+| homework    |     50 |          0.0764526 |
+| grade       |     47 |          0.0718654 |
+| exams       |     46 |          0.0703364 |
+| understand  |     43 |          0.0657492 |
+[91m3.0 Most Common 1-1.5 Star Rating Comment Words [0m
+Number of Ratings:  3505
+| Word       |   Freq |
+|------------+--------|
+| teacher    |    661 |
+| professor  |    579 |
+| doesnt     |    497 |
+| worst      |    476 |
+| tests      |    338 |
+| teach      |    326 |
+| lectures   |    279 |
+| teaching   |    266 |
+| hes        |    251 |
+| horrible   |    250 |
+| boring     |    249 |
+| avoid      |    240 |
+| anything   |    238 |
+| grade      |    238 |
+| understand |    230 |
+[91m3.1 Most Common 2-2.5 Star Rating Comment Words [0m
+Number of Ratings:  2169
+| Word       |   Freq |
+|------------+--------|
+| tests      |    352 |
+| teacher    |    283 |
+| lectures   |    249 |
+| doesnt     |    247 |
+| boring     |    242 |
+| professor  |    240 |
+| nice       |    220 |
+| grade      |    216 |
+| hes        |    206 |
+| shes       |    152 |
+| guy        |    151 |
+| notes      |    146 |
+| teaching   |    143 |
+| understand |    139 |
+| teach      |    139 |
+[91m3.2 Most Common 3-3.5 Star Rating Comment Words [0m
+Number of Ratings:  2505
+| Word        |   Freq |
+|-------------+--------|
+| tests       |    513 |
+| teacher     |    376 |
+| nice        |    353 |
+| hes         |    353 |
+| lectures    |    312 |
+| professor   |    312 |
+| guy         |    277 |
+| interesting |    234 |
+| pretty      |    219 |
+| boring      |    217 |
+| exams       |    205 |
+| grade       |    200 |
+| shes        |    180 |
+| difficult   |    180 |
+| gives       |    177 |
+[91m3.3 Most Common 4-4.5 Star Rating Comment Words [0m
+Number of Ratings:  4766
+| Word        |   Freq |
+|-------------+--------|
+| professor   |    928 |
+| teacher     |    918 |
+| tests       |    661 |
+| hes         |    596 |
+| helpful     |    546 |
+| nice        |    525 |
+| interesting |    494 |
+| lectures    |    453 |
+| guy         |    427 |
+| gives       |    358 |
+| shes        |    358 |
+| grade       |    343 |
+| classes     |    341 |
+| notes       |    333 |
+| dr          |    317 |
+[91m3.4 Most Common 5 Star Rating Comment Words [0m
+Number of Ratings:  7050
+| Word        |   Freq |
+|-------------+--------|
+| professor   |   1799 |
+| teacher     |   1767 |
+| hes         |    794 |
+| helpful     |    793 |
+| interesting |    660 |
+| tests       |    659 |
+| classes     |    657 |
+| awesome     |    601 |
+| dr          |    582 |
+| prof        |    577 |
+| shes        |    526 |
+| nice        |    505 |
+| recommend   |    503 |
+| lectures    |    491 |
+| gives       |    465 |
+[93m4.0 Average Rating for Comments with Curse Words [0m
+	Average Curse Word Comment Rating: 2.84536082474227
+[93m4.0 Average Rating for Comments with Curse Words [0m
+	 Natural Sciences department :  10.0 % comments with curse words
+	 Visual Arts department :  5.556 % comments with curse words
+	 African Studies department :  5.263 % comments with curse words
+	 Mechanical Engineering department :  5.0 % comments with curse words
+	 Russian department :  5.0 % comments with curse words
